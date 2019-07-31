@@ -34,8 +34,8 @@ Los datos se recolectaron desde diferentes fuentes que brindan la siguiente info
 |Campaña   | A que creatividad pertenece | chr|
 |Conversion| El total de individuos que compran el **marca** gracias a la campaña| num|
 |Fecha     | La fecha en que se realizó la pauta | Date|
-|Medio     | Por cual medio aparecio la pauta | Categorical|
-|Sesión     | Indicador de inicio o no de sesión | Categorical|
+|Medio     | Por cual medio apareció la pauta | Categorical|
+|Fuente     | Origen de emisión de la pauta  | Categorical|
 
 ## Demografía
 |Archivo    | Definición           |Tipo|
