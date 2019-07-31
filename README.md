@@ -31,3 +31,6 @@ Por lo tanto en el desarrollo de la misma, por favor escriba brevemente porque l
 | [Parrilla](https://github.com/ResolveProductTeam/Prueba-de-seleccion/blob/master/Data/Parrilla.xlsx) |Contiene la información sobre la pauta|[Daniel Jiménez](danieljimenezm.com); _Resolve Studio_|
 | [Participaciones](https://github.com/ResolveProductTeam/Prueba-de-seleccion/blob/master/Data/Participaciones.xlsx) |Contiene la información sobre la pauta , a que grupo perteneece y su campaña|[Daniel Jiménez](danieljimenezm.com); _Resolve Studio_|
 
+# Diccionario de variables 
+
+
