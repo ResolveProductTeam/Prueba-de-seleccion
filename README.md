@@ -30,12 +30,13 @@ Los datos se recolectaron desde diferentes fuentes que brindan la siguiente info
 ## Analítica
 |Archivo    | Definición           |Tipo|
 |----------|-----------------------|----|
-|Contenido | Nombre de la pauta    |chr |
-|Campaña   | A que cretividad pertenece| chr|
-|Conversion| El total de individuos que compran el **contenido** gracias a la campaña| num|
-|Fecha     | La fecha en que se realizo la pauta | Date|
+|Marca     | Nombre del anunciante    |chr |
+|Campaña   | A que creatividad pertenece | chr|
+|Conversion| El total de individuos que compran el **marca** gracias a la campaña| num|
+|Fecha     | La fecha en que se realizó la pauta | Date|
 |Medio     | Por cual medio aparecio la pauta | Categorical|
-Categorical
+|Sesión     | Indicador de inicio o no de sesión | Categorical|
+
 ## Demografía
 |Archivo    | Definición           |Tipo|
 |----------|-----------------------|----|
