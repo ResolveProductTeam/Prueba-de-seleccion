@@ -95,7 +95,8 @@ Los datos se recolectaron desde diferentes fuentes que brindan la siguiente info
 * La prueba se divide en cuatro partes. Por favor desarrolle un script individual para cada una de ellas:
   + Análitica de datos: Análisis Exploratorio de Datos
   + Cruce de bases de datos: Recuerde que solo puede usar Python, pero puede invocar una API para utilizar las librerias/herramientas que considere necesarias.
-  + Desarrollo del modelo ML (clasificador) que determine de donde provienen las conversiones de usuarios, bajo el algoritmo que considere mas adecuado (justifique porque se decidió por el mismo).
+  + Desarrollo del modelo ML (clasificador) que determine que medio y/o campaña tendrá mayor impacto en la conversión (decisión de compra) del usuario, bajo el algoritmo que considere mas adecuado (justifique porque se decidió por el mismo).
+  
   + Genere un formato de entrega de las **principales conclusiones** del mismo (se recomienda un Dashboard dentro del mismo notebook).
   
 
