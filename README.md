@@ -21,15 +21,22 @@ Por lo tanto en el desarrollo de la misma, por favor escriba brevemente la justi
   
   Teniendo en cuenta lo anterior, por favor a la hora de enviar o subir la prueba dividalo en scripts individuales para los pasos antes mencionados.
   
-  
-  # Bases de datos 
+## Descripción del dominio del negocio
+
+Se recolectaron datos correspondientes a campañas publicitarias en medios Digitales y ATL. El objetivo es a partir de estos , lograr atribuir como las campañas  tuvieron impacto en las decisiones de compra de los usuarios que visitaron las páginas (sitios web) de la compañia.
+
+Los datos se recolectaron desde diferentes fuentes que brindan la siguiente información:
+
+
+
+ 
 |Archivo    | Descripción           | Fuente                           |
 | -------- | ---------------------- | ---------------------------------- |
 | [Analítica](https://github.com/ResolveProductTeam/Prueba-de-seleccion/blob/master/Data/Analitica.xlsx)| Trae la información general sobre las campañas | [Daniel Jiménez](danieljimenezm.com); _Resolve Studio_ |
-| [Clasificación](https://github.com/ResolveProductTeam/Prueba-de-seleccion/blob/master/Data/Clasificacion.xlsx) | Contiene los datos generales del comportamiento de cada ID | [Daniel Jiménez](danieljimenezm.com); _Resolve Studio_|
-| [Demografía](https://github.com/ResolveProductTeam/Prueba-de-seleccion/blob/master/Data/Demografia.xlsx) | Contiene toda la información del comportamiento del Usuario dado su localización geografíca | [Daniel Jiménez](danieljimenezm.com); _Resolve Studio_|
-| [Parrilla](https://github.com/ResolveProductTeam/Prueba-de-seleccion/blob/master/Data/Parrilla.xlsx) |Contiene la información sobre la pauta|[Daniel Jiménez](danieljimenezm.com); _Resolve Studio_|
-| [Participaciones](https://github.com/ResolveProductTeam/Prueba-de-seleccion/blob/master/Data/Participaciones.xlsx) |Contiene la información sobre la pauta , a que grupo perteneece y su campaña|[Daniel Jiménez](danieljimenezm.com); _Resolve Studio_|
+| [Clasificación](https://github.com/ResolveProductTeam/Prueba-de-seleccion/blob/master/Data/Clasificacion.xlsx) | Contiene los datos generales del comportamiento de cada usuario| [Daniel Jiménez](danieljimenezm.com); _Resolve Studio_|
+| [Demografía](https://github.com/ResolveProductTeam/Prueba-de-seleccion/blob/master/Data/Demografia.xlsx) | Contiene  información adicion  del comportamiento del cada Usuario dado su localización geografíca | [Daniel Jiménez](danieljimenezm.com); _Resolve Studio_|
+| [Parrilla](https://github.com/ResolveProductTeam/Prueba-de-seleccion/blob/master/Data/Parrilla.xlsx) |Contiene la información sobre la pauta y medios de comunicación|[Daniel Jiménez](danieljimenezm.com); _Resolve Studio_|
+| [Participaciones](https://github.com/ResolveProductTeam/Prueba-de-seleccion/blob/master/Data/Participaciones.xlsx) |Contiene la información sobre el total de conversiones sobre la pauta dada la fecha|[Daniel Jiménez](danieljimenezm.com); _Resolve Studio_|
 
 # Diccionario de variables 
 ## Analítica
