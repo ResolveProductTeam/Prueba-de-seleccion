@@ -11,7 +11,7 @@ Por lo tanto en el desarrollo de la misma, por favor escriba brevemente porque l
 
 # Parámetros de la prueba 
 
-* Se debe desarrollarse en Python
+* Se debe desarrollar en Python
 * Use Jupyter Notebook como script para la misma
 * Divida la prueba en cuatro partes
   + Análitica de datos: Análisis Exploratorio de Datos
