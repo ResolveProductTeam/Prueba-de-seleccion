@@ -67,7 +67,7 @@ Categorical
 |----------|-----------------------|----|
 |Promedio de duración| Tiempo del indiviuo viendo la pauta| num|
 |Tiempo en página| Tiempo que duro el individuo en la web|num|
-|ID| Identificación del usuatio| Categorical |
+|ID| Identificación del usuario| Categorical |
 |Fecha| Fecha en que e usuario vio la pauta|Date|
 |Hora| Hora en que el usuario vio la pauta|Date|
 |Minuto| Minuto en que el usuario vío la pauta|Date|
@@ -80,7 +80,7 @@ Categorical
 |Grupo| Franja horaria en la que se emitió el contenido  | Levels |
 |Asistente| Agencia de publicidad que generó el contenido |num|
 |Campaña| Creatividad asociada a la pauta| Categorical |
-|Número objetivo| Objetivo de las conversiones|num|
+|Número objetivo| Cantidad esperada conversiones|num|
 |Fecha| Fecha de la pauta|Date|
 |Medio| Asociación del medio en que aparecio dado el grupo de la pauta|num|
 |Source| Código asociado a la pauta y creatividad | Levels |
