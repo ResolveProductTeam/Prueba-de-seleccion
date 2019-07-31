@@ -7,7 +7,7 @@ El objetivo de la prueba va en dos vías:
 * Determinar sus *skills* en análisis de la información y proponer que  modelos de machine learning va  a utilizar.
 * Conocer su desarrollo en la construcción de los modelos de machine learning
 
-Por lo tanto en el desarrollo de la misma, por favor escriba brevemente la justificación de lo que considero adecuado.
+Por lo tanto en el desarrollo de la misma, por favor escriba brevemente la justificación de lo que consideró adecuado.
 
 # Parámetros de la prueba 
 
@@ -30,7 +30,7 @@ Los datos se recolectaron desde diferentes fuentes que brindan la siguiente info
 
 
  
-|Archivo    | Descripción           | Fuente                           |
+|Archivo (Haga click para descargar)   | Descripción           | Fuente                           |
 | -------- | ---------------------- | ---------------------------------- |
 | [Analítica](https://github.com/ResolveProductTeam/Prueba-de-seleccion/blob/master/Data/Analitica.xlsx)| Trae la información general sobre las campañas | [Daniel Jiménez](danieljimenezm.com); _Resolve Studio_ |
 | [Interacciones](https://github.com/ResolveProductTeam/Prueba-de-seleccion/blob/master/Data/Interacciones.xlsx) | Contiene los datos generales del comportamiento de cada usuario| [Daniel Jiménez](danieljimenezm.com); _Resolve Studio_|
