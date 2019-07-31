@@ -33,10 +33,10 @@ Los datos se recolectaron desde diferentes fuentes que brindan la siguiente info
 |Archivo    | Descripción           | Fuente                           |
 | -------- | ---------------------- | ---------------------------------- |
 | [Analítica](https://github.com/ResolveProductTeam/Prueba-de-seleccion/blob/master/Data/Analitica.xlsx)| Trae la información general sobre las campañas | [Daniel Jiménez](danieljimenezm.com); _Resolve Studio_ |
-| [Clasificación](https://github.com/ResolveProductTeam/Prueba-de-seleccion/blob/master/Data/Clasificacion.xlsx) | Contiene los datos generales del comportamiento de cada usuario| [Daniel Jiménez](danieljimenezm.com); _Resolve Studio_|
+| [Interacciones](https://github.com/ResolveProductTeam/Prueba-de-seleccion/blob/master/Data/Clasificacion.xlsx) | Contiene los datos generales del comportamiento de cada usuario| [Daniel Jiménez](danieljimenezm.com); _Resolve Studio_|
 | [Demografía](https://github.com/ResolveProductTeam/Prueba-de-seleccion/blob/master/Data/Demografia.xlsx) | Contiene  información adicion  del comportamiento del cada Usuario dado su localización geografíca | [Daniel Jiménez](danieljimenezm.com); _Resolve Studio_|
 | [Parrilla](https://github.com/ResolveProductTeam/Prueba-de-seleccion/blob/master/Data/Parrilla.xlsx) |Contiene la información sobre la pauta y medios de comunicación|[Daniel Jiménez](danieljimenezm.com); _Resolve Studio_|
-| [Participaciones](https://github.com/ResolveProductTeam/Prueba-de-seleccion/blob/master/Data/Participaciones.xlsx) |Contiene la información sobre el total de conversiones sobre la pauta dada la fecha|[Daniel Jiménez](danieljimenezm.com); _Resolve Studio_|
+| [Conversiones](https://github.com/ResolveProductTeam/Prueba-de-seleccion/blob/master/Data/Participaciones.xlsx) |Contiene la información sobre el total de conversiones sobre la pauta dada la fecha|[Daniel Jiménez](danieljimenezm.com); _Resolve Studio_|
 
 # Diccionario de variables 
 ## Analítica
