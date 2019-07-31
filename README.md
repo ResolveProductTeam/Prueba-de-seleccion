@@ -32,5 +32,48 @@ Por lo tanto en el desarrollo de la misma, por favor escriba brevemente porque l
 | [Participaciones](https://github.com/ResolveProductTeam/Prueba-de-seleccion/blob/master/Data/Participaciones.xlsx) |Contiene la información sobre la pauta , a que grupo perteneece y su campaña|[Daniel Jiménez](danieljimenezm.com); _Resolve Studio_|
 
 # Diccionario de variables 
+## Analítica
+|Archivo    | Definición           |Tipo|
+|----------|-----------------------|----|
+|Contenido | Nombre de la pauta    |chr |
+|Campaña   | A que cretividad pertenece| chr|
+|Conversion| El total de individuos que compran el **contenido** gracias a la campaña| num|
+|Fecha     | La fecha en que se realizo la pauta | Date|
+|Medio     |Por cual medio aparecio la pauta| factor|
+|Source    |Nombre del medio en que aparecio la pauta |factor|
+
+## Demografía
+|Archivo    | Definición           |Tipo|
+|----------|-----------------------|----|
+|Browser   |Tipo de navegador por usuario|factor|
+|Ciudad    |Ciudad de la que viene el usuario|factor|
+|Fecha     |Fecha en que se conecto el usuario| Date|
+|Device    |Tipo de dispositivo|chr|
+|Sistema Operativo| Sistema Operativo del Usuario|factor|
+|Sesión| El número de veces que se conecto el usuario| num|
+|Duración| El tiempo que diro la pauta|Date|
+|Tiempo en Página| Duración del usuario en la página web|Date|
+
+## Parrilla
+
+|Archivo    | Definición           |Tipo|
+|----------|-----------------------|----|
+|Channel| Canal en que se dio la pauta| factor|
+|End_date| Momento en que finalizó la pauta| Date|
+| Formato| Describe el tipo de formato|levels
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
