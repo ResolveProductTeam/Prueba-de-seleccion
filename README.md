@@ -7,7 +7,7 @@ El objetivo de la prueba va en dos vías:
 * Determinar sus *skills* en análisis de la información y proponer que  modelos de machine learning va  a utilizar.
 * Conocer su desarrollo en la construcción de los modelos de machine learning
 
-Por lo tanto en el desarrollo de la misma, por favor escriba brevemente porque la desarrollo de la manera como usted lo considero adecuada.
+Por lo tanto en el desarrollo de la misma, por favor escriba brevemente la justificación de lo que considero adecuado.
 
 # Parámetros de la prueba 
 
@@ -15,11 +15,11 @@ Por lo tanto en el desarrollo de la misma, por favor escriba brevemente porque l
 * Use Jupyter Notebook como script para la misma
 * Divida la prueba en cuatro partes
   + Análitica de datos: Análisis Exploratorio de Datos
-  + Cruce de bases de datos : Recuerde que solo puede usar python, pero puede usar una API para utilizar la herramienta que considere necesaria
+  + Cruce de bases de datos : Recuerde que solo puede usar Python, pero puede invocar una API para utilizar la herramienta que considere necesaria
   + Desarrollo del modelo ML (clasificador), bajo el algoritmo que considere necesario (Justifique porque se decidió por el mismo)
-  + Genere un formato de entrega de las **principales conclusiones** del mismo (se recomienda un Dashboard).
+  + Genere un formato de entrega de las **principales conclusiones** del mismo (se recomienda un Dashboard dentro del mismo notebook).
   
-  Teniendo en cuenta lo anterior, por favor a la hora de enviar o subir la prueba hagalo en las cuatro partes correspondientes.
+  Teniendo en cuenta lo anterior, por favor a la hora de enviar o subir la prueba dividalo en scripts individuales para los pasos antes mencionados.
   
   
   # Bases de datos 
