@@ -77,13 +77,13 @@ Categorical
 |Archivo    | Definición           |Tipo|
 |----------|-----------------------|----|
 |Contenido| Tipo ó clase de pauta| Categorical |
-|Grupo| Clasificación del contenido segun la franja horaria | Levels |
-|Asistente| Ayuda para las conversiones|num|
+|Grupo| Franja horaria en la que se emitió el contenido  | Levels |
+|Asistente| Agencia de publicidad que generó el contenido |num|
 |Campaña| Creatividad asociada a la pauta| Categorical |
 |Número objetivo| Objetivo de las conversiones|num|
 |Fecha| Fecha de la pauta|Date|
 |Medio| Asociación del medio en que aparecio dado el grupo de la pauta|num|
-|Source| Número asociado a la pauta y creatividad| Levels |
+|Source| Código asociado a la pauta y creatividad | Levels |
 |Total de conversiones| El total de conversiones dada la hora de la pauta y su creatividad| num |
 
 
