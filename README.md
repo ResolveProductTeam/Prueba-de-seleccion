@@ -9,17 +9,7 @@ El objetivo de la prueba es doble:
 
 Por lo tanto en el desarrollo de la misma, por favor escriba brevemente la justificación de lo que consideró adecuado.
 
-# Parámetros de la prueba 
-
-* Se debe desarrollar en Python.
-* Use Jupyter Notebook como entorno de solución. El notebook debe ser enviado a la dirección de correo electrónico indicada.
-* La prueba se divide en cuatro partes. Por favor desarrolle un script individual para cada una de ellas:
-  + Análitica de datos: Análisis Exploratorio de Datos
-  + Cruce de bases de datos: Recuerde que solo puede usar Python, pero puede invocar una API para utilizar las librerias/herramientas que considere necesarias.
-  + Desarrollo del modelo ML (clasificador), bajo el algoritmo que considere mas adecuado (justifique porque se decidió por el mismo).
-  + Genere un formato de entrega de las **principales conclusiones** del mismo (se recomienda un Dashboard dentro del mismo notebook).
-  
-  
+ 
 ## Descripción del dominio del negocio
 
 Se recolectaron datos correspondientes a campañas publicitarias en medios Digitales y ATL. El objetivo es a partir de estos lograr atribuir como las campañas tuvieron impacto en las decisiones de compra de los usuarios que visitaron las páginas (sitios web) de la compañia.
@@ -97,7 +87,16 @@ Categorical
 |Total de conversiones| El total de conversiones dada la hora de la pauta y su creatividad| num |
 
 
+# Parámetros de la prueba 
 
+* Se debe desarrollar en Python.
+* Use Jupyter Notebook como entorno de solución. El notebook debe ser enviado a la dirección de correo electrónico indicada.
+* La prueba se divide en cuatro partes. Por favor desarrolle un script individual para cada una de ellas:
+  + Análitica de datos: Análisis Exploratorio de Datos
+  + Cruce de bases de datos: Recuerde que solo puede usar Python, pero puede invocar una API para utilizar las librerias/herramientas que considere necesarias.
+  + Desarrollo del modelo ML (clasificador), bajo el algoritmo que considere mas adecuado (justifique porque se decidió por el mismo).
+  + Genere un formato de entrega de las **principales conclusiones** del mismo (se recomienda un Dashboard dentro del mismo notebook).
+  
 
 
 
