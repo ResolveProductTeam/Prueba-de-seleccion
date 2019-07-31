@@ -39,6 +39,7 @@ Los datos se recolectaron desde diferentes fuentes que brindan la siguiente info
 | [Conversiones](https://github.com/ResolveProductTeam/Prueba-de-seleccion/blob/master/Data/Participaciones.xlsx) |Contiene la información sobre el total de conversiones sobre la pauta dada la fecha|[Daniel Jiménez](danieljimenezm.com); _Resolve Studio_|
 
 # Diccionario de variables 
+
 ## Analítica
 |Archivo    | Definición           |Tipo|
 |----------|-----------------------|----|
@@ -67,7 +68,44 @@ Los datos se recolectaron desde diferentes fuentes que brindan la siguiente info
 |----------|-----------------------|----|
 |Channel| Canal en que se dio la pauta| factor|
 |End_date| Momento en que finalizó la pauta| Date|
-| Formato| Describe el tipo de formato|levels
+|Formato| Describe el tipo de formato|levels|
+|Inversión| El valor de la pauta dada la hora y día en que aparecio| num|
+|Medium| Medio en que sale la pauta|factor|
+|rating| Personas viendo la pauta dada la hora|num|
+|Reference| Creatividad de la pauta|chr|
+|Start_date| Fecha exacta en que comenzo la pauta|
+
+
+## Interacciones
+|Archivo    | Definición           |Tipo|
+|----------|-----------------------|----|
+|Promedio de duración| Tiempo del indiviuo viendo la pauta| num|
+|Tiempo en página| Tiempo que duro el individuo en la web|num|
+|ID| Identificación del usuatio| factor|
+|Fecha| Fecha en que e usuario vio la pauta|Date|
+|Hora| Hora en que el usuario vio la pauta|Date|
+|Minuto| Minuto en que el usuario vío la pauta|Date|
+
+
+## Conversiones
+|Archivo    | Definición           |Tipo|
+|----------|-----------------------|----|
+|Contenido| Tipo ó clase de pauta| factor|
+|Grupo| CLasificación del contindo segun la franja horaria|levels|
+|Asistente| Ayuda para las conversiones|num|
+|Campaña| Creatividad asociada a la pauta|factor|
+|Número objetivo| Objetivo de las conversiones|num|
+|Fecha| Fecha de la pauta|Date|
+|Medio| Asociación del medio en que aparecio dado el grupo de la pauta|num|
+|Source| Número asociado a la pauta y creatividad|Levels|
+|Total de conversiones| El total de conversiones dada la hora de la pauta y su creatividad|
+
+
+
+
+
+
+
 
 
 
