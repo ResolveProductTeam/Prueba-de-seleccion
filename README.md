@@ -4,7 +4,7 @@ En el presente repositorio encontrará todos los detalles sobre la prueba de sel
 
 El objetivo de la prueba va en dos vías:
 
-* Determinar sus *skills* en análisis de la información y proponer la construcción de modelos de machine learning.
+* Determinar sus *skills* en análisis de la información y proponer que  modelos de machine learning va  a utilizar.
 * Conocer su desarrollo en la construcción de los modelos de machine learning
 
 Por lo tanto en el desarrollo de la misma, por favor escriba brevemente porque la desarrollo de la manera como usted lo considero adecuada.
