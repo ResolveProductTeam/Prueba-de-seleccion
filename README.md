@@ -93,7 +93,7 @@ Los datos se recolectaron desde diferentes fuentes que brindan la siguiente info
 * Se debe desarrollar en Python.
 * La prueba se divide en cuatro partes. Por favor desarrolle un script individual para cada una de ellas:
   + Análitica de datos: Análisis Exploratorio de Datos
-  + Cruce/unificación/limpieza de bases de datos: Recuerde que solo puede usar Python, pero puede invocar una API para utilizar las librerias/herramientas que considere necesarias.
+  + Cruce/unificación/limpieza de bases de datos: Recuerde que solo puede usar Python, pero puede invocar una API para utilizar las librerías/herramientas que considere necesarias.
   + Desarrollo del modelo ML (clasificador) que determine que medio y/o campaña tendrá mayor impacto en la conversión (decisión de compra) del usuario, bajo el algoritmo que considere mas adecuado (justifique porque se decidió por el mismo). Para este fin, debe utilizar la base de datos unificada en el punto anterior. Establezca así mismo un esquema apropiado de partición de datos para entrenamiento/prueba/validación, teniendo en cuenta que la empresa no cuenta con otro set de datos adicional.
   + Genere un formato de entrega de las **principales conclusiones** del mismo (se recomienda un Dashboard dentro del mismo notebook).
 * Use Jupyter Notebook como entorno de solución. Los notebooks desarrollados deben ser enviados a la dirección de correo electrónico indicada.  
