@@ -77,10 +77,10 @@ Los datos se recolectaron desde diferentes fuentes que brindan la siguiente info
 ## Conversiones
 |Archivo    | Definición           |Tipo|
 |----------|-----------------------|----|
-|Contenido| Tipo ó clase de pauta| Categorical |
+|Campaña| Tipo ó clase de pauta| Categorical |
 |Grupo| Franja horaria en la que se emitió el contenido  | Levels |
 |Asistente| Agencia de publicidad que generó el contenido |num|
-|Campaña| Creatividad asociada a la pauta| Categorical |
+|Creatividad| Creatividad asociada a la pauta| Categorical |
 |Número objetivo| Cantidad esperada conversiones|num|
 |Fecha| Fecha de la pauta|Date|
 |Medio| Asociación del medio en que aparecio dado el grupo de la pauta|num|
