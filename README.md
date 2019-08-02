@@ -4,7 +4,7 @@ En el presente repositorio encontrará todos los detalles sobre la prueba de sel
 
 El objetivo de la prueba incluye los siguientes aspectos:
 
-* Determinar sus *skills* en análisis de datos y aplicación de modelos de Machine Learning.
+* Determinar sus habilidades en análisis de datos y aplicación de modelos de Machine Learning.
 * Conocer sus capacidades en la construcción y validaciónde los modelos de Machine Learning.
 * Evaluar las habilidades para exposición de modelos ML a través de interfaces API.
 
